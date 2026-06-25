@@ -27,6 +27,7 @@ Paper: [arXiv:2410.23587](https://arxiv.org/abs/2410.23587)
 |---|---|
 | `ReplicationCodeMomentsIntegrateMGF.ipynb` | Main replication notebook (run top to bottom) |
 | `ReplicationCodeMomentsIntegrateMGF.pdf` | Executed notebook with all figures and numerical output |
+| figures/ | Individual figure PDFs (Figs 1–3, S.2) |
 | `paper.pdf` | Compiled manuscript |
 | `supplement.pdf` | Compiled Supplementary Material |
 | `Project.toml`, `Manifest.toml` | Pinned Julia environment for exact reproduction |
